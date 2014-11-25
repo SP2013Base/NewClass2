@@ -11,5 +11,6 @@ namespace ClassLibrary3
         Anothre new class
             Yeah, new project
             Doop de doooo
+            And the beat goes on
     }
 }
